@@ -1,0 +1,30 @@
+_repo: South-from-Hudson-BayAn-Adventure-and-Mystery-Story-for-Boys_43905
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43905-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brill, Ethel C. (Ethel Claire)
+    aliases:
+    - Brill, E. C. (Ethel Claire)
+    - Brill, Ethel Claire
+    birthdate: 1877
+    gutenberg_agent_id: '42115'
+    url: http://www.gutenberg.org/2009/agents/42115
+description: ''
+gutenberg_issued: '2013-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43905'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+- !lcsh 'Red River Settlement -- Juvenile fiction'
+title: 'South from Hudson Bay: An Adventure and Mystery Story for Boys'
+url: http://www.gutenberg.org/ebooks/43905
