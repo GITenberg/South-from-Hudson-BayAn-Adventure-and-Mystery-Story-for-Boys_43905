@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '42115'
     url: http://www.gutenberg.org/2009/agents/42115
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43905#South-from-Hudson-BayAn-Adventure-and-Mystery-Story-for-Boys
 gutenberg_issued: '2013-10-08'
 gutenberg_type: Text
 identifiers:
